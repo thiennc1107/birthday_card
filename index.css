@@ -54,7 +54,7 @@ img.birthday {
     .card img.birthday{ 
         width: 100%;
         max-width: 50vw;
-        max-height: unset; 
+        max-height: 50vh; 
     }
 }
 
